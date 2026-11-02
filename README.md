@@ -1,5 +1,4 @@
 # Vendor-performance-Analysis
-# 📊 Vendor Performance Analysis Project
 
 ## 📌 Overview
 The **Vendor Performance Analysis Project** is a data analytics initiative aimed at evaluating vendor efficiency, identifying top performers, and uncovering improvement opportunities.  
